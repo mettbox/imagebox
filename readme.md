@@ -14,5 +14,5 @@ npm install -g ./
 ## Usage
 
 ```bash
-imagebox
+imagebox --input <folder> --output <folder> --format [jpg|png] --trim --width=[pixel] --height=[pixel]
 ```

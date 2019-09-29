@@ -1,5 +1,5 @@
 {
-  "name": "imagebox",
+  "name": "mettbox-imagebox",
   "version": "1.0.0",
   "description": "Image manipulation CLI",
   "bin": {
