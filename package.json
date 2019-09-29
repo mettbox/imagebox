@@ -1,6 +1,6 @@
 {
   "name": "mettbox-imagebox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image manipulation CLI",
   "bin": {
     "imagebox": "./bin/index.js"
