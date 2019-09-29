@@ -1,0 +1,31 @@
+{
+  "name": "imagebox",
+  "version": "1.0.0",
+  "description": "Image manipulation CLI",
+  "bin": {
+    "imagebox": "./bin/index.js"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 12.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mettbox/imagebox.git"
+  },
+  "keywords": [
+    "imagemagick",
+    "graphicsmagick",
+    "node",
+    "cli"
+  ],
+  "author": "Maik Mettenheimer <maik@mettbox.de>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "sharp": "^0.23.1"
+  }
+}
